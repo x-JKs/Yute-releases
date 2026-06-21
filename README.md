@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/x-JKs/Yute-releases/blob/main/main/banner.png" alt="Yute" width="600"/>
+  <img src="main/banner.png" alt="Yute" width="600"/>
 </p>
 
 <h1 align="center">Yute</h1>
