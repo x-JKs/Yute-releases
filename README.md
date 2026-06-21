@@ -5,7 +5,7 @@
 <h1 align="center">Yute</h1>
 
 <p align="center">
-  <strong>A Destiny 2 companion tool for PC</strong><br>
+  <strong>A companion tool</strong><br>
   Real-time activity tracking, in-game overlay, packet interception, and more.
 </p>
 
@@ -22,10 +22,10 @@
 
 - **Activity Tracker** - Track raid, dungeon, and other activity completions across all characters in real time
 - **In-Game Overlay** - Lightweight overlay showing activity timers, fireteam info, and module status
-- **Packet Interception** - Intercept and interact with Destiny 2 network packets via WinDivert
+- **Packet Interception** - Intercept and interact with network packets via WinDivert
 - **Personal Bests** - Automatically tracks your fastest clears per activity
 - **Activity Toasts** - Desktop notifications when activities complete, with duration and completion status
-- **Discord Rich Presence** - Show your current Destiny 2 activity on your Discord profile
+- **Discord Rich Presence** - Show your current activity on your Discord profile
 - **AutoHotkey Integration** - Launch and manage AHK scripts alongside the app
 - **Customizable Modules** - Enable/disable features with per-module keybinds and settings
 
@@ -43,11 +43,6 @@
 4. Enter your license key when prompted
 
 ## License Keys
-
-Yute requires a license key to activate. Keys are tied to your hardware and cannot be shared between machines.
-
-- **Lifetime** - One-time activation, never expires
-- **Monthly** - 30-day access from activation
 
 To request a key, contact **x-JKs**.
 
